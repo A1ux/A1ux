@@ -20,5 +20,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=a1ux&show_icons=true&locale=en&layout=compact" alt="a1ux" /></p>
 
+# Blog posts
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
