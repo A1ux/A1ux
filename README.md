@@ -11,6 +11,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Portswigger Academy Learning Path: SQL Injection Lab 13](https://www.alux.cc/p/portswigger-academy-learning-path-sql-injection-lab-13/)
+- [Portswigger Academy Learning Path: SQL Injection Lab 10](https://www.alux.cc/p/portswigger-academy-learning-path-sql-injection-lab-10/)
+- [Portswigger Academy Learning Path: SQL Injection Lab 11](https://www.alux.cc/p/portswigger-academy-learning-path-sql-injection-lab-11/)
+- [Portswigger Academy Learning Path: SQL Injection Lab 12](https://www.alux.cc/p/portswigger-academy-learning-path-sql-injection-lab-12/)
+- [Portswigger Academy Learning Path: SQL Injection Lab 8](https://www.alux.cc/p/portswigger-academy-learning-path-sql-injection-lab-8/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
