@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **pentest, owasp top 10, cybersecurity, linux**
 
-- 📄 Know about my experiences [I work as a consultant in cybersecurity and in my free time I dedicate myself to learn new technologies](I work as a consultant in cybersecurity and in my free time I dedicate myself to learn new technologies)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/a1uxhash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="a1uxhash" height="30" width="40" /></a>
