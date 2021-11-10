@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **pentest, owasp top 10, cybersecurity, linux**
 
-### Blogs posts
+### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Portswigger Academy Learning Path: SQL Injection Lab 13](https://www.alux.cc/p/portswigger-academy-learning-path-sql-injection-lab-13/)
 - [Portswigger Academy Learning Path: SQL Injection Lab 10](https://www.alux.cc/p/portswigger-academy-learning-path-sql-injection-lab-10/)
