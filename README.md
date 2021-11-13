@@ -9,6 +9,8 @@
 
 - 💬 Ask me about **pentest, owasp top 10, cybersecurity, linux**
 
+<script src="https://tryhackme.com/badge/154670"></script>
+
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Portswigger Academy Learning Path: SQL Injection Lab 14](https://www.alux.cc/p/portswigger-academy-learning-path-sql-injection-lab-14/)
