@@ -11,11 +11,11 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Portswigger Academy Learning Path: Authentication Lab 4](https://www.alux.cc/p/portswigger-academy-learning-path-authentication-lab-4/)
+- [Portswigger Academy Learning Path: Authentication Lab 1](https://www.alux.cc/p/portswigger-academy-learning-path-authentication-lab-1/)
+- [Portswigger Academy Learning Path: Authentication Lab 2](https://www.alux.cc/p/portswigger-academy-learning-path-authentication-lab-2/)
+- [Portswigger Academy Learning Path: Authentication Lab 3](https://www.alux.cc/p/portswigger-academy-learning-path-authentication-lab-3/)
 - [Portswigger Academy Learning Path: SQL Injection Lab 14](https://www.alux.cc/p/portswigger-academy-learning-path-sql-injection-lab-14/)
-- [Portswigger Academy Learning Path: SQL Injection Lab 15](https://www.alux.cc/p/portswigger-academy-learning-path-sql-injection-lab-15/)
-- [Portswigger Academy Learning Path: SQL Injection Lab 16](https://www.alux.cc/p/portswigger-academy-learning-path-sql-injection-lab-16/)
-- [Portswigger Academy Learning Path: SQL Injection Lab 13](https://www.alux.cc/p/portswigger-academy-learning-path-sql-injection-lab-13/)
-- [Portswigger Academy Learning Path: SQL Injection Lab 10](https://www.alux.cc/p/portswigger-academy-learning-path-sql-injection-lab-10/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
