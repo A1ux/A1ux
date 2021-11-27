@@ -11,11 +11,11 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Portswigger Academy Learning Path: Authentication Lab 8](https://www.alux.cc/p/portswigger-academy-learning-path-authentication-lab-8/)
-- [Portswigger Academy Learning Path: Authentication Lab 9](https://www.alux.cc/p/portswigger-academy-learning-path-authentication-lab-9/)
-- [Multiples contenedores y Proxy Inverso Apache + HTTPS](https://www.alux.cc/p/multiples-contenedores-y-proxy-inverso-apache-https/)
-- [Portswigger Academy Learning Path: Authentication Lab 6](https://www.alux.cc/p/portswigger-academy-learning-path-authentication-lab-6/)
-- [Portswigger Academy Learning Path: Authentication Lab 7](https://www.alux.cc/p/portswigger-academy-learning-path-authentication-lab-7/)
+- [Portswigger Academy Learning Path: Authentication Lab 13](https://www.alux.cc/p/portswigger-academy-learning-path-authentication-lab-13/)
+- [Portswigger Academy Learning Path: Authentication Lab 14](https://www.alux.cc/p/portswigger-academy-learning-path-authentication-lab-14/)
+- [Portswigger Academy Learning Path: Authentication Lab 11](https://www.alux.cc/p/portswigger-academy-learning-path-authentication-lab-11/)
+- [Portswigger Academy Learning Path: Authentication Lab 12](https://www.alux.cc/p/portswigger-academy-learning-path-authentication-lab-12/)
+- [Portswigger Academy Learning Path: Authentication Lab 10](https://www.alux.cc/p/portswigger-academy-learning-path-authentication-lab-10/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
