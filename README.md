@@ -11,11 +11,11 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Portswigger Academy Learning Path: Directory Traversal Lab 1](https://www.alux.cc/p/portswigger-academy-learning-path-directory-traversal-lab-1/)
-- [Portswigger Academy Learning Path: Directory Traversal Lab 2](https://www.alux.cc/p/portswigger-academy-learning-path-directory-traversal-lab-2/)
-- [Portswigger Academy Learning Path: Directory Traversal Lab 3](https://www.alux.cc/p/portswigger-academy-learning-path-directory-traversal-lab-3/)
-- [Portswigger Academy Learning Path: Directory Traversal Lab 4](https://www.alux.cc/p/portswigger-academy-learning-path-directory-traversal-lab-4/)
-- [Portswigger Academy Learning Path: Directory Traversal Lab 5](https://www.alux.cc/p/portswigger-academy-learning-path-directory-traversal-lab-5/)
+- [Portswigger Academy Learning Path: OS Command Injection Lab 3](https://www.alux.cc/p/portswigger-academy-learning-path-os-command-injection-lab-3/)
+- [Portswigger Academy Learning Path: OS Command Injection Lab 4](https://www.alux.cc/p/portswigger-academy-learning-path-os-command-injection-lab-4/)
+- [Portswigger Academy Learning Path: OS Command Injection Lab 5](https://www.alux.cc/p/portswigger-academy-learning-path-os-command-injection-lab-5/)
+- [Portswigger Academy Learning Path: OS Command Injection Lab 1](https://www.alux.cc/p/portswigger-academy-learning-path-os-command-injection-lab-1/)
+- [Portswigger Academy Learning Path: OS Command Injection Lab 2](https://www.alux.cc/p/portswigger-academy-learning-path-os-command-injection-lab-2/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
