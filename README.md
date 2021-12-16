@@ -11,11 +11,11 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Portswigger Academy Learning Path: Business Logic Lab 10](https://www.alux.cc/p/portswigger-academy-learning-path-business-logic-lab-10/)
-- [Portswigger Academy Learning Path: Business Logic Lab 8](https://www.alux.cc/p/portswigger-academy-learning-path-business-logic-lab-8/)
-- [Portswigger Academy Learning Path: Business Logic Lab 9](https://www.alux.cc/p/portswigger-academy-learning-path-business-logic-lab-9/)
-- [Portswigger Academy Learning Path: Business Logic Lab 5](https://www.alux.cc/p/portswigger-academy-learning-path-business-logic-lab-5/)
-- [Portswigger Academy Learning Path: Business Logic Lab 6](https://www.alux.cc/p/portswigger-academy-learning-path-business-logic-lab-6/)
+- [Portswigger Academy Learning Path: Information Disclosure Lab 1](https://www.alux.cc/p/portswigger-academy-learning-path-information-disclosure-lab-1/)
+- [Portswigger Academy Learning Path: Information Disclosure Lab 2](https://www.alux.cc/p/portswigger-academy-learning-path-information-disclosure-lab-2/)
+- [Portswigger Academy Learning Path: Information Disclosure Lab 3](https://www.alux.cc/p/portswigger-academy-learning-path-information-disclosure-lab-3/)
+- [Portswigger Academy Learning Path: Information Disclosure Lab 4](https://www.alux.cc/p/portswigger-academy-learning-path-information-disclosure-lab-4/)
+- [Portswigger Academy Learning Path: Information Disclosure Lab 5](https://www.alux.cc/p/portswigger-academy-learning-path-information-disclosure-lab-5/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
