@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alux</h1>
 <h3 align="center">A cyber security enthusiast</h3>
 
-<p align="left"> <a href="https://twitter.com/a1uxhash" target="blank"><img src="https://img.shields.io/twitter/follow/a1uxhash?logo=twitter&style=for-the-badge" alt="a1uxhash" /></a> </p>
-
 - 🌱 I’m currently learning **pentest web, infraestructure, linux, pentest ad**
 
 - 📝 I regularly write articles on [https://www.alux.cc](https://www.alux.cc)
