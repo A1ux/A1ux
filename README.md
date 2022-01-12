@@ -9,11 +9,11 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Portswigger Academy Learning Path: Access Control Lab 11](https://www.alux.cc/p/portswigger-academy-learning-path-access-control-lab-11/)
-- [Portswigger Academy Learning Path: Access Control Lab 12](https://www.alux.cc/p/portswigger-academy-learning-path-access-control-lab-12/)
-- [Portswigger Academy Learning Path: Access Control Lab 13](https://www.alux.cc/p/portswigger-academy-learning-path-access-control-lab-13/)
-- [Portswigger Academy Learning Path: Access Control Lab 10](https://www.alux.cc/p/portswigger-academy-learning-path-access-control-lab-10/)
-- [Portswigger Academy Learning Path: Access Control Lab 8](https://www.alux.cc/p/portswigger-academy-learning-path-access-control-lab-8/)
+- [Portswigger Academy Learning Path: File Upload Lab 7](https://www.alux.cc/p/portswigger-academy-learning-path-file-upload-lab-7/)
+- [Portswigger Academy Learning Path: File Upload Lab 8](https://www.alux.cc/p/portswigger-academy-learning-path-file-upload-lab-8/)
+- [Portswigger Academy Learning Path: File Upload Lab 4](https://www.alux.cc/p/portswigger-academy-learning-path-file-upload-lab-4/)
+- [Portswigger Academy Learning Path: File Upload Lab 5](https://www.alux.cc/p/portswigger-academy-learning-path-file-upload-lab-5/)
+- [Portswigger Academy Learning Path: File Upload Lab 6](https://www.alux.cc/p/portswigger-academy-learning-path-file-upload-lab-6/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
