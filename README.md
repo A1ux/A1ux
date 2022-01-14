@@ -9,8 +9,8 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Portswigger Academy Learning Path: File Upload Lab 7](https://www.alux.cc/p/portswigger-academy-learning-path-file-upload-lab-7/)
 - [Portswigger Academy Learning Path: File Upload Lab 8](https://www.alux.cc/p/portswigger-academy-learning-path-file-upload-lab-8/)
+- [Portswigger Academy Learning Path: File Upload Lab 7](https://www.alux.cc/p/portswigger-academy-learning-path-file-upload-lab-7/)
 - [Portswigger Academy Learning Path: File Upload Lab 4](https://www.alux.cc/p/portswigger-academy-learning-path-file-upload-lab-4/)
 - [Portswigger Academy Learning Path: File Upload Lab 5](https://www.alux.cc/p/portswigger-academy-learning-path-file-upload-lab-5/)
 - [Portswigger Academy Learning Path: File Upload Lab 6](https://www.alux.cc/p/portswigger-academy-learning-path-file-upload-lab-6/)
