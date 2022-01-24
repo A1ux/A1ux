@@ -9,11 +9,11 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Portswigger Academy Learning Path: Server-side request forgery &lpar;SSRF&rpar; Lab 7](https://www.alux.cc/p/portswigger-academy-learning-path-server-side-request-forgery-ssrf-lab-7/)
-- [Portswigger Academy Learning Path: Server-side request forgery &lpar;SSRF&rpar; Lab 6](https://www.alux.cc/p/portswigger-academy-learning-path-server-side-request-forgery-ssrf-lab-6/)
-- [Portswigger Academy Learning Path: Server-side request forgery &lpar;SSRF&rpar; Lab 5](https://www.alux.cc/p/portswigger-academy-learning-path-server-side-request-forgery-ssrf-lab-5/)
-- [Portswigger Academy Learning Path: Server-side request forgery &lpar;SSRF&rpar; Lab 4](https://www.alux.cc/p/portswigger-academy-learning-path-server-side-request-forgery-ssrf-lab-4/)
-- [Portswigger Academy Learning Path: Server-side request forgery &lpar;SSRF&rpar; Lab 3](https://www.alux.cc/p/portswigger-academy-learning-path-server-side-request-forgery-ssrf-lab-3/)
+- [Portswigger Academy Learning Path: XML external entity &lpar;XXE&rpar; Lab 1](https://www.alux.cc/p/portswigger-academy-learning-path-xml-external-entity-xxe-lab-1/)
+- [Portswigger Academy Learning Path: XML external entity &lpar;XXE&rpar; Lab 2](https://www.alux.cc/p/portswigger-academy-learning-path-xml-external-entity-xxe-lab-2/)
+- [Portswigger Academy Learning Path: XML external entity &lpar;XXE&rpar; Lab 3](https://www.alux.cc/p/portswigger-academy-learning-path-xml-external-entity-xxe-lab-3/)
+- [Portswigger Academy Learning Path: XML external entity &lpar;XXE&rpar; Lab 4](https://www.alux.cc/p/portswigger-academy-learning-path-xml-external-entity-xxe-lab-4/)
+- [Portswigger Academy Learning Path: XML external entity &lpar;XXE&rpar; Lab 5](https://www.alux.cc/p/portswigger-academy-learning-path-xml-external-entity-xxe-lab-5/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
