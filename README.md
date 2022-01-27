@@ -9,11 +9,11 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Portswigger Academy Learning Path: XML external entity &lpar;XXE&rpar; Lab 7](https://www.alux.cc/p/portswigger-academy-learning-path-xml-external-entity-xxe-lab-7/)
+- [Portswigger Academy Learning Path: XML external entity &lpar;XXE&rpar; Lab 8](https://www.alux.cc/p/portswigger-academy-learning-path-xml-external-entity-xxe-lab-8/)
+- [Portswigger Academy Learning Path: XML external entity &lpar;XXE&rpar; Lab 9](https://www.alux.cc/p/portswigger-academy-learning-path-xml-external-entity-xxe-lab-9/)
+- [Portswigger Academy Learning Path: XML external entity &lpar;XXE&rpar; Lab 6](https://www.alux.cc/p/portswigger-academy-learning-path-xml-external-entity-xxe-lab-6/)
 - [Portswigger Academy Learning Path: XML external entity &lpar;XXE&rpar; Lab 1](https://www.alux.cc/p/portswigger-academy-learning-path-xml-external-entity-xxe-lab-1/)
-- [Portswigger Academy Learning Path: XML external entity &lpar;XXE&rpar; Lab 2](https://www.alux.cc/p/portswigger-academy-learning-path-xml-external-entity-xxe-lab-2/)
-- [Portswigger Academy Learning Path: XML external entity &lpar;XXE&rpar; Lab 3](https://www.alux.cc/p/portswigger-academy-learning-path-xml-external-entity-xxe-lab-3/)
-- [Portswigger Academy Learning Path: XML external entity &lpar;XXE&rpar; Lab 4](https://www.alux.cc/p/portswigger-academy-learning-path-xml-external-entity-xxe-lab-4/)
-- [Portswigger Academy Learning Path: XML external entity &lpar;XXE&rpar; Lab 5](https://www.alux.cc/p/portswigger-academy-learning-path-xml-external-entity-xxe-lab-5/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
