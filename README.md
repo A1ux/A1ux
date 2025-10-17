@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **pentest web, infraestructure, linux, pentest ad**
 
-- 📝 I regularly write articles on [https://www.alux.cc](https://www.alux.cc)
+- 📝 I regularly write articles on [https://blog.alux.cc](https://blog.alux.cc)
 
 - 💬 Ask me about **pentest, owasp top 10, cybersecurity, linux**
 
@@ -14,9 +14,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/a1uxhash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="a1uxhash" height="30" width="40" /></a>
+<a href="https://twitter.com/Alux_security" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="a1uxhash" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/cristiansantosr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cristiansantosr" height="30" width="40" /></a>
-<a href="/https://www.alux.cc/post/index.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.alux.cc/post/index.xml" height="30" width="40" /></a>
+<a href="/https://www.alux.cc/post/index.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://blog.alux.cc/post/index.xml" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
